@@ -1,6 +1,4 @@
-"""
-We require data to have preprocessed (pimg, pseg, piuv, gimg, gseg, giuv)
-"""
+
 
 import os
 import cv2
